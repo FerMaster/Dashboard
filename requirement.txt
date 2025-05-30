@@ -3,4 +3,4 @@ pandas
 numpy
 matplotlib
 bokeh
-openpyxl
+openpyxl==2.0.0
